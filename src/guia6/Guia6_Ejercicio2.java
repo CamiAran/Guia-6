@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guia5;
+package guia6;
 
 /**
  *
  * @author camia
  */
-public class Guia5_Ejercicio2 {
+public class Guia6_Ejercicio2 {
     public static void main ( String [ ] args ) {
     int num1 = 5 ;
     int num2 = 2 ;

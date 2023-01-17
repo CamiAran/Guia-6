@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guia5;
+package guia6;
 
 /**
  *
  * @author camia
  */
-public class Guia5_ejercicio4 {
+public class Guia6_ejercicio4 {
  public static void main ( String [ ] args ) {
     int num = 10 ;
     System.out.println ( " La variable tiene el valor de : " + num ) ;

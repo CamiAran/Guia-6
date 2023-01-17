@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guia5;
+package guia6;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author camia
  */
-public class Guia5_Ejercicio13 {
+public class Guia6_Ejercicio13 {
 
     /**
      * @param args the command line arguments

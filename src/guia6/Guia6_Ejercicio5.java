@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guia5;
+package guia6;
 import java.util.Scanner;
 /**
  *
  * @author camia
  */
-public class Guia5_Ejercicio5 {
+public class Guia6_Ejercicio5 {
 /*    public static void main(String [] args){
         Scanner leer = new Scanner(System.in);
         System.out.println("Con esta clase guardamos valores ingesados por consola en las variables");

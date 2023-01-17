@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guia5;
+package guia6;
 
 import java.util.Scanner;
 
-public class Guia5_Ejercicio6 {
+public class Guia6_Ejercicio6 {
   /* public static void main(String[] args){
     int num1 = 5;
     int num2 = 7;
